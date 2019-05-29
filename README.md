@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+title: Welcome to the BigBrother’s homepage!
 
 You can use the [editor on GitHub](https://github.com/bigbrother92/notreadyforwin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
